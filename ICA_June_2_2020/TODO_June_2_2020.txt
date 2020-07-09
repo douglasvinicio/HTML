@@ -1,0 +1,9 @@
+TODO: June 2, 2020
+
+(Could be done as a team activity)
+
+To create Colorado National Parks and Monuments web site
+
+1. crreate the six pages of the Colorado National Parks and Monuments web site.
+2. Do not include style for now.
+

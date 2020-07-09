@@ -1,0 +1,22 @@
+nav,h3,p {
+    display:inherit;
+    align-items: center;
+    text-align: center;
+    }
+
+header img{
+    width: 60px; 
+    margin: 30px; 
+}
+
+
+footer {
+    display:inherit;
+    align-items: center;
+    text-align: center;
+    
+    
+    }
+
+
+
